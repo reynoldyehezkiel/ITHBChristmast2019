@@ -4,7 +4,7 @@
 Web application for registration of participants of the 2019 ITHB Christmas event
 
 ## What i do?
-Create PHP project modules:
+Create modules:
 - pdf converter (from string)
 - qrcode generator
 - random alphanumeric
